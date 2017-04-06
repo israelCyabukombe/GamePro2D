@@ -9,7 +9,8 @@
 ***************	 shooting at incoming comets/fish and it will display a blue 
 ***************  background and will use different fonts to show the number
 ***************  lives left and the number of comets destroyed at the end of
-***************	 of the Game
+***************	 of the Game 
+***************  The material was learnt from Mike Geig
 
 ###Directions: Use the "SPACE" Key to shoot 
 			   Use the "ESC" Key to exit
