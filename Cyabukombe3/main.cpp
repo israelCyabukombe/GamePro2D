@@ -11,8 +11,9 @@
 ***************  lives left and the number of comets destroyed at the end of
 ***************	 of the Game
 
-###Directions: Use the "SPACE" KEY TO SHOOT AND THE ARROW KEYS TO MOVE
+###Directions: Use the "SPACE" Key to shoot 
 			   Use the "ESC" Key to exit
+			   Use the "ARROW" Keys to move the submarine
 *************************************************************************/
 #include "Globals.h"
 #include "Bullet.h"
